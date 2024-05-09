@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hello! I took APCSA at Wakefield. Here are some of my projects:
 
 <!--
 **Mateo-Ruiz08/Mateo-Ruiz08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-Hello!
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
